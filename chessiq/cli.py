@@ -1,6 +1,6 @@
 import click
 
-from opening_analyzer.command import analyze_opening
+from chessiq.opening_analyzer.command import analyze_opening
 
 
 @click.group()
