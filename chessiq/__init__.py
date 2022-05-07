@@ -1,0 +1,1 @@
+from opening_analyzer import command
