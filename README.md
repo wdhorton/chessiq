@@ -5,6 +5,7 @@ Requires Python 3.7 or higher.
 ## Installation
 ```
 git clone https://github.com/wdhorton/chessiq.git
+cd chessiq
 pip install .
 ```
 
